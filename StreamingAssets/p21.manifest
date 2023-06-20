@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1347957822
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce74a3fe1a170f74100f3c1c9376f049
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 862c161c1e3bb19b1de09a53c16f476d
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/Points/p21.png
+Dependencies: []

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1210983641
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: p00
+      Dependencies: {}
+    Info_1:
+      Name: p01
+      Dependencies: {}
+    Info_2:
+      Name: p02
+      Dependencies: {}
+    Info_3:
+      Name: p10
+      Dependencies: {}
+    Info_4:
+      Name: p11
+      Dependencies: {}
+    Info_5:
+      Name: p12
+      Dependencies: {}
+    Info_6:
+      Name: p20
+      Dependencies: {}
+    Info_7:
+      Name: p21
+      Dependencies: {}
+    Info_8:
+      Name: p22
+      Dependencies: {}
