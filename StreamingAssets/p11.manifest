@@ -1,17 +1,16 @@
 ManifestFileVersion: 0
-CRC: 3627461565
+CRC: 1717904401
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 524d347829ff9f10fd0c27845a61b24d
+    Hash: fd12c2da05b2fbdd0deb3a930195f28c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 862c161c1e3bb19b1de09a53c16f476d
+    Hash: 7ae03148ccc2d81279420f9cf5a52f48
 HashAppended: 0
 ClassTypes:
 - Class: 89
   Script: {instanceID: 0}
-SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Textures/Points/p11.png
+- Assets/_XR/Point/p11.jpg
 Dependencies: []

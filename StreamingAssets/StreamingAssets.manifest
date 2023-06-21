@@ -1,31 +1,94 @@
 ManifestFileVersion: 0
-CRC: 1210983641
+CRC: 803732626
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: p00
+      Name: p81
       Dependencies: {}
     Info_1:
-      Name: p01
+      Name: p42
       Dependencies: {}
     Info_2:
-      Name: p02
-      Dependencies: {}
-    Info_3:
       Name: p10
       Dependencies: {}
+    Info_3:
+      Name: p72
+      Dependencies: {}
     Info_4:
-      Name: p11
+      Name: p40
       Dependencies: {}
     Info_5:
-      Name: p12
+      Name: p01
       Dependencies: {}
     Info_6:
-      Name: p20
+      Name: p70
       Dependencies: {}
     Info_7:
-      Name: p21
+      Name: p31
       Dependencies: {}
     Info_8:
+      Name: p61
+      Dependencies: {}
+    Info_9:
       Name: p22
+      Dependencies: {}
+    Info_10:
+      Name: p91
+      Dependencies: {}
+    Info_11:
+      Name: p52
+      Dependencies: {}
+    Info_12:
+      Name: p20
+      Dependencies: {}
+    Info_13:
+      Name: p82
+      Dependencies: {}
+    Info_14:
+      Name: p50
+      Dependencies: {}
+    Info_15:
+      Name: p11
+      Dependencies: {}
+    Info_16:
+      Name: p80
+      Dependencies: {}
+    Info_17:
+      Name: p41
+      Dependencies: {}
+    Info_18:
+      Name: p02
+      Dependencies: {}
+    Info_19:
+      Name: p71
+      Dependencies: {}
+    Info_20:
+      Name: p32
+      Dependencies: {}
+    Info_21:
+      Name: p00
+      Dependencies: {}
+    Info_22:
+      Name: p62
+      Dependencies: {}
+    Info_23:
+      Name: p30
+      Dependencies: {}
+    Info_24:
+      Name: p92
+      Dependencies: {}
+    Info_25:
+      Name: p60
+      Dependencies: {}
+    Info_26:
+      Name: p21
+      Dependencies: {}
+    Info_27:
+      Name: p90
+      Dependencies: {}
+    Info_28:
+      Name: p51
+      Dependencies: {}
+    Info_29:
+      Name: p12
       Dependencies: {}
