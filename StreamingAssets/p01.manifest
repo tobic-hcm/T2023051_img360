@@ -1,16 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1611138787
+CRC: 2792848718
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a9b3b8b4671c8145d97c34d0cbd333ad
+    Hash: 58494e2ea9040066676ce4a98da0839b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7ae03148ccc2d81279420f9cf5a52f48
+    Hash: 5a626034720512459a9a4c6ce7774bec
 HashAppended: 0
 ClassTypes:
 - Class: 89
   Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_XR/Point/p01.jpg
+- Assets/10Vinhphxr/Point/p01.jpg
 Dependencies: []
